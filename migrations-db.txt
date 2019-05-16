@@ -1,0 +1,3 @@
+add-migration -Context APIDbContext
+
+update-database  -Context APIDbContext
